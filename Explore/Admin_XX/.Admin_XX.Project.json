@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "12OkClv7EkAee70xYihMMR",
+    "name" : "Admin_XX",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-09-19T07:10:00.448Z",
+  "objectRefs" : [ ]
+}
